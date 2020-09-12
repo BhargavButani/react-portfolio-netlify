@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Bhargav Butani",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer On The Go",
+    "image": "profilepic.jpg",
+    "bio": "My name is Bhargav, I'm a ReactJS Developer. Currently I'm Doing Internship at RejoiceHub Solutions.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "sinubutani@gmail.com",
+    "phone": "+91 8980620772",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Surat",
+      "state": "Gujarat",
+      "country" : "India",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.bhargavbutani.github.com",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "#",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/bhargav-butani/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_bhargavb/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/BhargavButani",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Veer Narmad South Gujrat University",
+        "degree": "Bechlors Of Computer Science",
+        "graduated": "January 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "RejoiceHub Solutions",
+        "title": "ReactJs Intern",
+        "years": "April 2020 - Present",
+        "description": "Providing ReactJS Skills To The Company"
+      },
+      {
+        "company": "Freelancer",
+        "title": "HTML/CSS Developer",
+        "years": "Nov 2019 - April 2020",
+        "description": "Building MrQ, a gambling website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "A Great Experience Working with You, Your Work Totally Amazed me, I Really Loved it Man.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Bhargav Butani must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
