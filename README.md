@@ -1,4 +1,4 @@
-# Clever Programmer ReactJS Portfolio Template      
+# Bhargav butani ReactJS Portfolio Template      
 
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
